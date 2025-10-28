@@ -1,0 +1,5 @@
+com\example\reactivedemo\ReactiveDemoApplication.class
+com\example\reactivedemo\controller\ProductController.class
+com\example\reactivedemo\model\Product.class
+com\example\reactivedemo\service\ProductService.class
+com\example\reactivedemo\repository\ProductRepository.class
